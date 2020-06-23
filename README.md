@@ -1,5 +1,6 @@
 # featherwing-tft35
-Helper library to interact with the 3.5" TFT FeatherWing
+
+Helper library to simplify interactions and reduce code volume when using the 3.5" TFT FeatherWing.
 
 Example `lib_deps` on a `platformio.ini` configuration file:
 
